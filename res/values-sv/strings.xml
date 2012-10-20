@@ -1686,4 +1686,34 @@
     <string name="backup_pw_cancel_button_text" msgid="8845630125391744615">"Avbryt"</string>
     <string name="percentage" msgid="5866131581207788624">"<xliff:g id="NUMBER">%d</xliff:g> %%"</string>
     <string name="additional_system_update_settings_list_item_title" msgid="214987609894661992">"Ytterligare systemuppdateringar"</string>
+
+<!-- Lock Screen Weather -->
+    <string name="lockscreen_weather_title">Väder</string>
+    <string name="lockscreen_weather_summary">Visa väder information på lås skärmen</string>
+    <string name="lockscreen_weather_enabled">Aktiverat</string>
+    <string name="weather_enable">Visa väder</string>
+    <string name="weather_source">Yahoo! Väder</string>
+    <string name="weather_use_custom_location">Använd anpassad plats</string>
+    <string name="weather_geolocated">Plats via nätverket</string>
+    <string name="weather_custom_location_dialog_title">Ange plats</string>
+    <string name="weather_custom_location_hint">Stad, Land</string>
+    <string name="weather_custom_location_title">Plats</string>
+    <string name="weather_show_location_title">Visa plats</string>
+    <string name="weather_show_timestamp_title">Visa tid</string>
+    <string name="weather_refresh_interval">Uppdateringsintervall</string>
+    <string name="weather_use_metric">Använd metriska</string>
+    <string name="weather_retrieve_location_dialog_title">Kan inte hämta plats!</string>
+    <string name="weather_retrieve_location_dialog_message">Nätverks geolokalisering är inaktiverad.\n\nAnge en anpassad plats eller aktivera nätverksplats</string>
+    <string name="weather_retrieve_location_dialog_enable_button">Aktivera</string>
+    <string name="weather_invert_lowhigh">Invertera låga/höga temperaturer</string>
+    <string name="weather_progress_title">Verifierar plats</string>
+
+    <!-- Lock screen Weather - Update frequency -->
+    <string name="weather_refresh_manual">Manuell</string>
+    <string name="weather_refresh_30min">30 minuter</string>
+    <string name="weather_refresh_60min">60 minuter</string>
+    <string name="weather_refresh_2hrs">2 timmar</string>
+    <string name="weather_refresh_4hrs">4 timmar</string>
+    <string name="weather_refresh_6hrs">6 timmar</string>
+    <string name="weather_refresh_8hrs">8 timmar</string>
 </resources>
